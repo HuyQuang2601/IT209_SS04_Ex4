@@ -1,0 +1,5 @@
+# Sensitive local credentials
+credentials.txt
+
+# IDE metadata
+.idea/
